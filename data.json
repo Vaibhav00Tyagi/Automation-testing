@@ -1,0 +1,18 @@
+{
+ "deviceName": "G9UDU17B10000562",
+  "platformName": "Android",
+  "appPackage": "com.coalshastralive.android.app",
+  "appActivity": ".activity.Splash_Screen_Activity",
+  "automationName": "UiAutomator2",
+ "user1" : {"name" : "vaibhav.t@coalshastra.com","pass":"12345678"},
+ "user2" : {"name" : "shuvam.j@coalshastra.com","pass" : "12345678"},
+ "mine_name" : "afasdaff",
+ "cal_value" : "3544",
+ "quantity" : "5600",
+ "dis_quantity" : "500",
+ "comment" : "test auto",
+ "vessel" : "oce",
+ "offer_value" : "4000",
+ "offer_quantity" : "165",
+ "offer_lifting" : "5"
+ }
